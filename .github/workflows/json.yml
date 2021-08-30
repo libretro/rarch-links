@@ -1,0 +1,6 @@
+- name: Update my-file.json description
+  uses: jossef/action-set-json-field@v1
+  with:
+    file: firebase.json
+    field: destination
+    value: my custom data
