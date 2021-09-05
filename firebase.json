@@ -9,7 +9,7 @@
     "redirects": [
       {
         "source": "/r",
-        "destination": "https://www.libretro.com/index.php/retroarch-1-9-8-released/",
+        "destination": "https://www.libretro.com/index.php/retroarch-1-9-9-released/",
         "type": 301
       }
     ]
