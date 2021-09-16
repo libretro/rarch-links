@@ -11,6 +11,11 @@
         "source": "/r",
         "destination": "https://www.libretro.com/index.php/retroarch-1-9-9-released/",
         "type": 301
+      },
+      {
+        "source": "/discord",
+        "destination": "https://discord.gg/VZ2b7wghxR",
+        "type": 301
       }
     ]
   }
